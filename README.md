@@ -29,5 +29,5 @@ This project is a **virtual try-on chatbot** powered by **FastAPI**. It integrat
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone Deepanshu276
+   cd Deepanshu276
