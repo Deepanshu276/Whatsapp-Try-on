@@ -29,5 +29,5 @@ This project is a **virtual try-on chatbot** powered by **FastAPI**. It integrat
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone Deepanshu276
-   cd Deepanshu276
+   git clone [Deepanshu276](https://github.com/Deepanshu276/Whatsapp-Try-on)
+   cd [Deepanshu276](https://github.com/Deepanshu276/Whatsapp-Try-on)
