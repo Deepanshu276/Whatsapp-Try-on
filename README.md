@@ -37,7 +37,7 @@ This project is a **virtual try-on chatbot** powered by **FastAPI**. It integrat
       pip install -r requirements.txt
 3. **Create a .env file to store environment variables:**
    ```bash
-   touch .env```
+   touch .env
    Add the following content to the .env file:
    TWILIO_ACCOUNT_SID=<your_twilio_account_sid>
    TWILIO_AUTH_TOKEN=<your_twilio_auth_token>
